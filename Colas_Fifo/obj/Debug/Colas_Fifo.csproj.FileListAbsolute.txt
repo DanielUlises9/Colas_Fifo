@@ -1,0 +1,10 @@
+D:\New folder\Colas_Fifo\Colas_Fifo\bin\Debug\Colas_Fifo.exe.config
+D:\New folder\Colas_Fifo\Colas_Fifo\bin\Debug\Colas_Fifo.exe
+D:\New folder\Colas_Fifo\Colas_Fifo\bin\Debug\Colas_Fifo.pdb
+D:\New folder\Colas_Fifo\Colas_Fifo\obj\Debug\Colas_Fifo.csprojResolveAssemblyReference.cache
+D:\New folder\Colas_Fifo\Colas_Fifo\obj\Debug\Colas_Fifo.Form1.resources
+D:\New folder\Colas_Fifo\Colas_Fifo\obj\Debug\Colas_Fifo.Properties.Resources.resources
+D:\New folder\Colas_Fifo\Colas_Fifo\obj\Debug\Colas_Fifo.csproj.GenerateResource.cache
+D:\New folder\Colas_Fifo\Colas_Fifo\obj\Debug\Colas_Fifo.csproj.CoreCompileInputs.cache
+D:\New folder\Colas_Fifo\Colas_Fifo\obj\Debug\Colas_Fifo.exe
+D:\New folder\Colas_Fifo\Colas_Fifo\obj\Debug\Colas_Fifo.pdb
